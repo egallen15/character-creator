@@ -1,2 +1,6 @@
 .buttonRow {
+    max-width: fit-content;
+    overflow: scroll;
+    white-space: nowrap;
+    height: 50px;
 }
